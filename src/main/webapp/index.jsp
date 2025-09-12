@@ -48,7 +48,7 @@
         <h2>Welcome to My DevSecOps Program</h2>
     </div>
     <div class="content">
-        <h4>This is my Tomcat application deployed with Terraform & GitHub Actions</h4>
+        <h4>This is my Tomcat application</h4>
         <div class="info-box">
             <div><span class="label">Hostname:</span> <%= hostname %></div>
             <div><span class="label">IP Address:</span> <%= ip %></div>
